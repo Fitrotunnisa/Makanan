@@ -154,21 +154,6 @@ header {
   position: relative;
 }
 
-.lesson-icon p {
-  position: absolute;
-  top: 44%;
-  width: 100%;
-  color: white;
-}
-
-.text-contents {
-  width: 80%;
-  display: inline-block;
-  margin-top: 15px;
-  font-size: 15px;
-  color: #b3aeb5;
-}
-
 .heading h3 {
   font-weight: normal;
 }
