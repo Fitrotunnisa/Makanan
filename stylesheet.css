@@ -25,7 +25,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(kagyana-2955466__480.jpg);
   background-size: cover;
-  color: #000000;
+  color: white;
   text-align: center;
 }
 
@@ -83,7 +83,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(251, 127, 80);
+  background-color: rgba(251, 140, 1);
   position :fixed;
   top: 0;
   z-index: 10;
@@ -226,7 +226,7 @@ input, textarea {
 footer {
   padding-top: 20px;
   padding-bottom: 20px;
-  background-color: rgba(251, 127, 80);
+  background-color: rgba(251, 140, 1);
 }
 
 .footer-logo {
