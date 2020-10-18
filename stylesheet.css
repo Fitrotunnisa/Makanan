@@ -195,7 +195,7 @@ header {
   display: inline-block;
   margin-top: 15px;
   font-size: 15px;
-  color: rgba(251, 140, 1);
+  color: #000000;
 
 
 .contact-form {
@@ -225,14 +225,13 @@ footer {
 
 .footer-logo {
   float: left;
-  font-size: 32px;
+  font-size: 40px;
   color: white;
 } 
 
-.footer-logo p {
+footer p {
   color: white;
   font-size: 12px;
-  position :fixed;
   float: left;
 }
 
