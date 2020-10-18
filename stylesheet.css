@@ -83,7 +83,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(251, 140, 1);
+  background-color: #ffdab9;
   position :fixed;
   top: 0;
   z-index: 10;
@@ -169,7 +169,6 @@ header {
   width: 100%;
   color: white;
 }
-
 
 .message-wrapper {
   border-bottom: 1px solid #eee;
