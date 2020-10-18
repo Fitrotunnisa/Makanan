@@ -25,7 +25,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(kagyana-2955466__480.jpg);
   background-size: cover;
-  color: brown;
+  color: pale green;
   text-align: center;
 }
 
@@ -225,7 +225,7 @@ footer {
 
 .footer-logo {
   float: left;
-  font-size: 40px;
+  font-size: 20px;
   color: white;
 } 
 
@@ -233,6 +233,7 @@ footer p {
   color: white;
   font-size: 12px;
   float: left;
+  footer-right: -25px;
 }
 
 
