@@ -185,6 +185,7 @@ header {
   color: white;
 }
 
+
 .message-wrapper {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
@@ -203,6 +204,14 @@ header {
   top: 7px;
   box-shadow: none;
 }
+
+.text-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 15px;
+  color: rgba(251, 140, 1);
+
 
 .contact-form {
   padding-top: 100px;
