@@ -159,7 +159,7 @@ header {
 }
 
 .selected {
-  width: 200px;
+  width: 225px;
   height: 250px;
 }
 
@@ -200,7 +200,7 @@ header {
 
 .contact-form {
   padding-top: 100px;
-  background-color: #ffb6c1;
+  background-color: #ffdab9;
 }
 
 input, textarea {
