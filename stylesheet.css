@@ -25,7 +25,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(kagyana-2955466__480.jpg);
   background-size: cover;
-  color: white;
+  color: brown;
   text-align: center;
 }
 
@@ -196,7 +196,7 @@ header {
   margin-top: 15px;
   font-size: 15px;
   color: #000000;
-
+}
 
 .contact-form {
   padding-top: 100px;
@@ -218,7 +218,7 @@ input, textarea {
 }
 
 footer {
-  padding-top: 20px;
+  padding-top: 30px;
   padding-bottom: 20px;
   background-color: rgba(251, 140, 1);
 }
