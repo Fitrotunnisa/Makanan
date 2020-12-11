@@ -201,6 +201,8 @@ header {
 .contact-form {
   padding-top: 100px;
   background-color: #fff5ee;
+  position: center;
+  text-align: center;
 }
 
 input, textarea {
