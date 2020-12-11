@@ -41,4 +41,12 @@
     .menu-icon {
         display: block;
     }  
+    .contact-form {
+        width: 100%;
+    }
+    .contact-submit {
+        width : 100%;
+     }
+  
+  
 }
