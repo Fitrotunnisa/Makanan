@@ -38,15 +38,32 @@
     .header-right {
         display: none;
     }
+
     .menu-icon {
         display: block;
-    }  
-    .contact-form {
+    } 
+    
+    .input, textarea {
+        width: 100%;
+    }
+    .footer-logo {
+        text-align: left;
         width: 100%;
     }
     .contact-submit {
+        width: 100%;
+        
+    .contact-form p {
+        width: 100%;
+        text-align: center;
+    }
+    .contact-submit {
         width : 100%;
-     }
+    }
+    .jenis {
+        width: 100%;
+    }
+ 
   
-  
+
 }
